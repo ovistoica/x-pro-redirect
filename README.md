@@ -1,34 +1,18 @@
-# Old Reddit Redirect
+# X Pro Redirect
 
-> [!NOTE]  
-> If you're wondering why the extension recently requested new permissions, please see https://github.com/tom-james-watson/old-reddit-redirect/issues/117
+Tired of X.com's attention-grabbing design? X Pro Redirect will ensure that you always load the more curated Pro.X.com experience instead.
 
-[Chrome extension](https://chrome.google.com/webstore/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje)
+Will force all x.com and twitter.com usage to pro.x.com. Will work when navigating to the site, opening links, using old bookmarks. Works regardless of whether you are logged in or not, and in incognito mode.
 
-[Firefox extension](https://addons.mozilla.org/firefox/addon/old-reddit-redirect)
-
-Dislike Reddit's redesign? Old Reddit Redirect will ensure that you always load the old (old.reddit.com) design instead.
-
-Will force all reddit.com usage to old.reddit.com. Will work when navigating to the site, opening links, using old bookmarks. Works regardless of whether you are logged in or not, and in incognito mode.
-
-Also has a new minor fixes and quality of life improvements like:
-
-- Removing the undismissable cookie banner
-- Rewriting links to galleries to the raw old reddit comments page
+Pro.X.com provides a more focused, less distracting experience that isn't engineered to steal your attention as easily as the main platform.
 
 #### Redirected domains
 
-- `reddit.com`
-- `www.reddit.com`
-- `np.reddit.com`
-- `amp.reddit.com`
-- `i.reddit.com`
-- `i.redd.it`
-- `preview.redd.it`
-
-#### Whitelisted domains
-
-- `sh.reddit.com`
+- `x.com`
+- `www.x.com`
+- `twitter.com`
+- `www.twitter.com`
+- `mobile.twitter.com`
 
 ## Development
 
